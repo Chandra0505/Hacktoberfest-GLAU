@@ -1,7 +1,7 @@
 # Hacktoberfest-GLAU
 Welcome to HacktoberFest 2019!
 
-This is the official repository of the Hacktoberfest event at the GLA University.
+This is the official repository of the Hacktoberfest 2019 event at the GLA University.
 
 Before making any further contributions to this repository, Please read code of conduct before making any contribution.
 
