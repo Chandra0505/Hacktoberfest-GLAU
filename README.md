@@ -1,9 +1,9 @@
 # Hacktoberfest-GLAU
 Welcome to HacktoberFest 2020!
 
-This is the official repository of the Hacktoberfest event at the GLA University.
+This is the official repository of the Hacktoberfest event at the GLA University, Mathura (Uttar Pradesh).
 
-Before making any further contributions to this repository, Please read code of conduct before making any contribution.
+NOTE:- Before making any further contributions to this repository, Please read code of conduct before making any contribution.
 
 
 Please Follow these steps to make your first pull request-
