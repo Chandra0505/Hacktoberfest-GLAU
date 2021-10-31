@@ -1,5 +1,5 @@
 # Hacktoberfest-GLAU
-Welcome to HacktoberFest 2020!
+Welcome to HacktoberFest 2021!
 
 This is the official repository of the Hacktoberfest event at the GLA University.
 
