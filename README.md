@@ -36,3 +36,4 @@ Congratulations!! You have successfully created your pull request.
 1. You can introduce yourself in introducing.md file.
 2. You can also submit an idea for a project which can be implemented as an open source community.
 And more important you can also help in suggesting, what is best to do with project.
+3. If someone have any suggestion/advice for fellow collegues. You are welcome to share it here.
